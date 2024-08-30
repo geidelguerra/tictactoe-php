@@ -6,4 +6,4 @@ One file Tic Tac Toe game.
 
 ## Setup and run
 
-Run `php -S localhost:8080` and go to `localhost:8080/server.php`
+Run `php -S localhost:8080` and go to `http://localhost:8080/server.php`
